@@ -1,7 +1,6 @@
 ## Hey, I'm Alex!
 
-- 🧑‍💻 I am an Information Systems undergraduate.
-- 🙂 I’m currently studying JavaScript.
+I'm 22 years old, Brazilian, and an Information Systems undergraduate student, currently studying JavaScript!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
