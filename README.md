@@ -7,7 +7,7 @@ I'm 22 years old, Brazilian, and an Information Systems undergraduate student, c
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-  <img align="right" alt="Alex-Glep" height="100" width="100" src="https://media.discordapp.net/attachments/1442943756499157015/1460695872953127067/bmo2.gif?ex=6967da8a&is=6966890a&hm=303676a7e42b3288f989ad7f2f44f575ce5fa1fa536521187c2bc5e931b925d9&=">
+  <img align="right" alt="Alex-Glep" height="100" width="100" src="https://media.discordapp.net/attachments/1442943756499157015/1460696836762374320/pikachu.gif?ex=6967db70&is=696689f0&hm=7ad20a1c72fb1874039af856cbd047f7637a33710e972131162105144ad18ccd&=">
   
 </div>
 
