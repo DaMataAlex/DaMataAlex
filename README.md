@@ -3,7 +3,7 @@
 I'm 22 years old, Brazilian, and an Information Systems undergraduate student, currently studying Java!🙂
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Alex-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="right" alt="Alex-Glep" height="100" width="100" src="https://media.discordapp.net/attachments/1442943756499157015/1460696836762374320/pikachu.gif?ex=6967db70&is=696689f0&hm=7ad20a1c72fb1874039af856cbd047f7637a33710e972131162105144ad18ccd&=">
   
